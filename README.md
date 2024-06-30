@@ -1,3 +1,5 @@
+![logo](https://github.com/aadarshk7/aadarshk7/blob/main/AB.png)
+
 <h1 align="center">Hi 👋, I'm Aadarsh Kunwar</h1>
 <h3 align="center">A passionate tech student</h3>
 
