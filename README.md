@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aadarshk_7" target="blank"><img src="https://img.shields.io/twitter/follow/aadarshk_7?logo=twitter&style=for-the-badge" alt="aadarshk_7" /></a> </p>
 
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **Mobile Development Architecture**
 
 - 📫 How to reach me **mail.aadarshkunwar@gmail.com**
 
