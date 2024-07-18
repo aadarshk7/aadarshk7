@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mobile Development Architecture**
 
-- 📫 How to reach me **mail.aadarshkunwar@gmail.com**
+- 📫 How to reach me **aadarshkunwar8@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
