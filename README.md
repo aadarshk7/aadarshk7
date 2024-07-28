@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Kunwar</h1>
-<h3 align="center">A passionate tech student</h3>
+<h3 align="center">Learning Flutter, AppDevelopment, Making projects</h3>
 <img align="right" alt="coding" width="400" src="https://growthtribe.io/hs-fs/hubfs/coding.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshk7&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshk7" /> </p>
 
