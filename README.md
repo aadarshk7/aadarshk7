@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aadarshkunwar8@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
