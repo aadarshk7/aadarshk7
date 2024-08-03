@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aadarshkunwar8@gmail.com**
 
-- ⚡**I am ambitious**
+- ⚡I am **ambitious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
