@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Learning Park Education Services MCQ App**
 
-- 🌱 I’m currently learning **Flutter Framework**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **aadarshkunwar8@gmail.com**
 
