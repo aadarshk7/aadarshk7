@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aadarsh Kunwar</h1>
-<h3 align="center">Mobile app Developer | Flutter | Dart | Android & IOS</h3>
+<!-- <h3 align="center">Mobile app Developer | Flutter | Dart | Android & IOS</h3 -->
+<h3 align="center"> Flutter | Dart | Android & IOS</h3>
+                                                                         
 <!-- <img align="right" alt="coding" width="400" src="https://i.giphy.com/HscDLzkO8EOTmgkhQP.webp">-->
 <!--  Main coding showing images in .webp  <img align="right" alt="coding" width="400" src="https://i.giphy.com/dxn6fRlTIShoeBr69N.webp"> -->
 <!--       <img align="right" alt="coding" width="400" src="https://i.giphy.com/qEqiI3Oq7vBkoE236M.webp">  -->
