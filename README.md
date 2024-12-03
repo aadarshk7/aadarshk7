@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **DigiBuzz App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter SDK**
 
 
 
