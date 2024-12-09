@@ -21,6 +21,7 @@
 
 <!--### Blogs posts
  BLOG-POST-LIST:START -->
+ <!-- Nothing on Blog but something will be soon-->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
