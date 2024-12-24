@@ -22,8 +22,8 @@
 <!--### Blogs posts
  BLOG-POST-LIST:START -->
  <!-- Nothing on Blog Section-->
-<!-- BLOG-POST-LIST:END -->
-### Blogs posts
+<!-- BLOG-POST-LIST:END 
+### Blogs posts- ->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
