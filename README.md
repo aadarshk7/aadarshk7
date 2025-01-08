@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Slash Plus Pvt Ltd**
 
-- 🌱 I’m currently learning **Flutter SDK**
+- 🌱 I’m currently learning **Clean Architecture in Flutter**
 
 
 
