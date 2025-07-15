@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Aadarsh Kunwar</h1>
+<h1 align="center">Hello 👋, I am Aadarsh Kunwar</h1>
 <!-- <h3 align="center">Mobile app Developer | Flutter | Dart | Android & IOS</h3 -->
 <h3 align="center">Mobile App | Flutter | Dart | Android & IOS </h3>
                                                                          
